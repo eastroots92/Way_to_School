@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Point.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerMove_Wii.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MapManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionModules\InteractionEngine\Scripts\InteractionBehaviours\InteractionHandEvents.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Point.cs" Line="30" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
